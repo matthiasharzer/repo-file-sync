@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/bmatcuk/doublestar/v4 v4.10.0
 	github.com/fatih/color v1.19.0
-	github.com/go-git/go-git/v5 v5.17.1
+	github.com/go-git/go-git/v5 v5.17.2
 	github.com/otiai10/copy v1.14.1
 	github.com/spf13/cobra v1.10.2
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
